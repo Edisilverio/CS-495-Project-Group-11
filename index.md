@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## CS 495 _Journal of a Pandemic Year_ Archive Project (Group 11)
 
-You can use the [editor on GitHub](https://github.com/Edisilverio/CS-495-Project-Group-11/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ellen DiSilverio, Emerson Jackson, Justin Levy, Dan Seifferth
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project Goals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Be able to query, curate, and sort data (by date or data type) in a Zotero database
+2. Advise the clients on intelligent data storage structure in the database that allows for easy dynamic growth
+3. Provide a mobile friendly website for users to interact with, as well as a dashboard for admin to control aspects of the site
 
-```markdown
-Syntax highlighted code block
+ 
+### Approach
+1. Use react native
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Edisilverio/CS-495-Project-Group-11/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
