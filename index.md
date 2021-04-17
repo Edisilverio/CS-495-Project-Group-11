@@ -25,3 +25,6 @@ User Experience:
 2. User selects date their story applies to using a drop down menu, enters their story in a text box, and hits submit. The story is sent to a secure dashboard inbox.
 3. Admin can login to a separate site to access the dashboard and view all submissions. They can quickly click through them and hit an accept or reject button. Admin can also choose to edit a submission by hitting the edit button, apply their changes, and save the edit, at which point they can then use the same accept button to allow the story to be published to the site.
 4. The story shows up alongside all the Zotero based sources on the companion website, associated with the day that the user selected.
+
+Github URL:
+   https://github.com/Enigmajams/495spring2021Project
