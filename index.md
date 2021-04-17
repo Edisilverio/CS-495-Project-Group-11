@@ -21,10 +21,17 @@ Tools:
 1. Use wordpress APIs for the security advantages
 
 User Experience:
-1. User logs onto companion site
-2. User selects date their story applies to using a drop down menu, enters their story in a text box, and hits submit. The story is sent to a secure dashboard inbox.
-3. Admin can login to a separate site to access the dashboard and view all submissions. They can quickly click through them and hit an accept or reject button. Admin can also choose to edit a submission by hitting the edit button, apply their changes, and save the edit, at which point they can then use the same accept button to allow the story to be published to the site.
-4. The story shows up alongside all the Zotero based sources on the companion website, associated with the day that the user selected.
+1. User redirects to submission site, which will make them login before they can access the submission screen.
+2. User can then enter in a title, story, location, and date of the submission that they would like to be displayed.
+3. User clicks submit and is redirected to a page thanking them for submitting their story.
+4. After their story has been published, users can go to the story viewing page and select a date and submit.
+5. The page refreshes, giving all the stories that exist for that date, including the title, author, and a preview of the story. Clicking a button below the preview will allow users to read the entirety of the submission.
+
+Admin Experience:
+1. Admin accesses the bard admin menu tab from the admin page of wordpress.
+2. Admin can select between tabs to see unpublished, waitlisted, and published stories.
+3. Admin can select a story, which will appear in a text area that can be edited.
+4. Admin can then waitlist, publish, or delete submissions, as well as email users directly with the click of a button.
 
 Github URL:
    https://github.com/Enigmajams/495spring2021Project
