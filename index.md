@@ -12,6 +12,7 @@ Group 11 Project Goals:
  1. Create a secure manner for users to submit their stories to be read and approved by admin before being added to the site
  2. Create a dashboard that allows admin to read and edit submissions before approving or rejecting them
  3. Create a way to store user submitted stories outside of Zotero that can be accessed by the companion website for display
+ 4. Create a way for users to view accepted stories by date that were published by the admin
  
  
 ### Approach
