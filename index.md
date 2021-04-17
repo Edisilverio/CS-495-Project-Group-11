@@ -19,6 +19,9 @@ Group 11 Project Goals:
 
 Tools:
 1. Use wordpress APIs for the security advantages
+2. Use Ultimate Member Plugin for the user accounts.
+3. Use bootstrap for dashboard formatting.
+4. Use JQuery UI for cross-browser compatibility of calendar.
 
 User Experience:
 1. User redirects to submission site, which will make them login before they can access the submission screen.
