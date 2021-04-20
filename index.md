@@ -36,7 +36,7 @@ Admin Experience:
 3. Admin can select a story, which will appear in a text area that can be edited.
 4. Admin can then waitlist, publish, or delete submissions, as well as email users directly with the click of a button.
 
-Github URL:
+[Github URL]:
    https://github.com/Enigmajams/495spring2021Project
-Final Video:
+[Final Video]:
    https://youtu.be/g56R3jTmapY
